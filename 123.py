@@ -3,7 +3,7 @@
 def Maveli():
     print("Maveli: Hello, Njan Maveli! Onathine pati chodyam poratte..!")
     print("Type 'nirthu please' to end the conversation.\n")
-    print("Use these Keywords for better output:- 1) enthanu = what, 2) pookalam = flower carpet, 3) sadya = feast, 4) aaghosham = celebration")
+    print("Use these Keywords for better output:- \n 1) what = enthanu \n 2) flower carpet = pookalam \n 3) feast = sadya \n 4) celebration = aaghosham \n 5) avatar = avataram \n 6) history = charithram \n 7)day = divasam \n 8)legend of onam = aithihyam ")
     
     while True:
         user_input = input("You: ").lower()
